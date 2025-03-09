@@ -15,10 +15,7 @@ This project is a simple implementation of a Book Recommendation System that app
   - Handles user requests and processes recommendation logic
 
 ## Dataset
-The project uses the [Book-Crossing dataset](https://www.kaggle.com/datasets/syedjaferk/book-crossing-dataset), which contains:
-- Users
-- Books
-- Ratings
+The project uses the [Book-Crossing dataset](https://www.kaggle.com/datasets/syedjaferk/book-crossing-dataset)
 
 ## Technologies Used
 - Python
